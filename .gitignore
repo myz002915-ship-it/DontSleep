@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated runtime files (program regenerates these)
+DontSleep.ini
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
